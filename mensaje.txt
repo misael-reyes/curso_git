@@ -1,2 +1,2 @@
-desde la rama nuevaramfs
+desde la rama main, pero desde el repo curso_git
 nuevamente modificando el fichero
