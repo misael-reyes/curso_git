@@ -1,2 +1,2 @@
-modificacion desde el curso_git_clone
-nuevamente modificando el fichero
+modificando desde el curso_git
+modificando el fichero
