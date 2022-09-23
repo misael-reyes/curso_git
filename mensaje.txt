@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 modificando desde el curso_git
 modificando el fichero
+=======
+modificacion desde el curso_git_clone de otra manera
+nuevamente modificando el fichero por segunda vez
+>>>>>>> 4b4363af17975a4f76624ab953c08353fc87c358
