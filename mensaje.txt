@@ -1,2 +1,2 @@
-desde la rama nuevaramfs
+modificacion desde el curso_git_clone
 nuevamente modificando el fichero
