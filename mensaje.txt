@@ -1,3 +1,2 @@
-estamos ingresando nuevo texto
-desde la rama nuevaram
-modificando ahora desde la master
+desde la rama nuevaramfs
+nuevamente modificando el fichero
