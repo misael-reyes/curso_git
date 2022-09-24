@@ -1,9 +1,9 @@
-modificando desde el curso_git
+modificado desde el curso_git
 modificando el fichero
 
 agrego otra linea en curso_git
 agrego otra linea en curso_git
 
-agrego otra linea en curso_git
+agrego otra linea en curso_git 2
 
-agrego otra linea en curso_git
+agrego otra linea en curso_git3
