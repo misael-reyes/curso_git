@@ -1,9 +1,4 @@
 estoy tirando codigo a lo loco
 
-modificado desde el curso_git
-modificando el fichero
-
-agrego otra linea en curso_git
-agrego otra linea en curso_git
-
-hago otros cambios por aqui jajajaj
+agregando texto desde
+la rama 2
